@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .bcolor {
   background: url("../images/main.jpg") no-repeat center center;
   min-height: 100vh;
@@ -14,3 +15,9 @@ body {
 .container-fluid{
   height:100px;
 }
+=======
+
+.container-fluid{
+  height: 100px;
+ }
+>>>>>>> cd7de63 (header)
