@@ -14,9 +14,13 @@ body {
 .container-fluid{
   height:100px;
 }
-=======
 
 .container-fluid{
   height: 100px;
  }
+
+nav {
+  height: 100px;
+  width:  auto;
+}
 
